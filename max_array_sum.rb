@@ -27,6 +27,8 @@ class MaxArraySum
   
       puts sub_array
 
+    else
+      puts "Please Input Array of Integers!"
     end
   end
 end
